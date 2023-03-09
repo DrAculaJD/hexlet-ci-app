@@ -1,6 +1,7 @@
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
+[![Makefile CI](https://github.com/DrAculaJD/hexlet-ci-app/actions/workflows/makefile.yml/badge.svg)](https://github.com/DrAculaJD/hexlet-ci-app/actions/workflows/makefile.yml)
 
 ## System requirements
 
